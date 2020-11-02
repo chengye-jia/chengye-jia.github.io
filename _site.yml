@@ -31,7 +31,7 @@ output:
 ---
 <style>                     
 .navbar {
-  background-color:#navbarColor01
+  background-color:black
 }
 </style>   
     
