@@ -1,0 +1,53 @@
+---
+title: "Research"
+---
+<br> 
+
+<!--# ****-->
+
+<br>
+
+### **Working Papers**
+
+<br>
+
+* [Inference on Counterfactual Transition Matrices](https://estsyawo.github.io/CHENGYEJIA_JMP.pdf#) (with Brantly Callaway, Job Market Paper)
+
+  <br>
+  
+  **Abstract**: Transition matrices provide a very useful way to summarize the dependence between two random variables; for example, the dependence between parents' income and child's income.  This paper considers estimation and inference techniques for (i) conditional transition matrices -- transition matrices that are conditional on some vector of covariates, (ii) counterfactual transition matrices -- transition matrices that arise from holding fixed conditional transition matrices but adjusting the distribution of the covariates,  and (iii) transition matrix average partial effects. Estimating conditional transition matrices is closely related to estimating conditional distribution functions, and we propose new semiparametric distribution regression estimators that may be of interest in other contexts as well.  We also derive uniform inference results for transition matrices that allow researchers to account for issues such as multiple testing that naturally arise when estimating a transition matrix.  We use our results to study differences in intergenerational mobility for black families and white families.  In the application, we document large differences between the transition matrices of black and white families. We also show that these differences are partially, but not fully, explained by differences in the distributions of other family characteristics.
+  
+  <br>
+  
+* [Semiparametric Estimation of Local Intergenerational
+	Elasticities] (status: working paper)
+  <br>
+  
+<!--  **Abstract**: This paper introduces an estimator for a general class of models under rank deficiency arising from high dimensionality, multicollinearity, or both. Our approach obtains a projection matrix that projects a high-dimensional (potentially growing p >> n) parameter vector into a reduced consistently estimable one. We show consistency and asymptotic normality of the estimator. Recovering the high-dimensional parameter vector using the projection matrix leaves precision unaffected. We employ a sequential estimation algorithm that, at once, obtains parameter estimates and the projection matrix. Our Monte Carlo simulations demonstrate a high approximative ability of high-dimensional parameters, improved precision, and reduced bias even under multicollinearity. In our empirical application, we find that firms on average generate positive R&D spillovers on firm productivity though these are dominated by private returns to R&D.
+-->
+  <br>
+  
+* [Decomposing Wage Gaps between Han and Non-Han MInorities Minorities](status: working paper)
+
+<!--
+  <br>
+  
+  **Abstract**: This paper introduces a Bayesian version of distribution regression that enables inference on estimated distributions, quantiles, distributional effects, among other functionals of interest. Our estimators come in three categories: the non-asymptotic, semi-asymptotic, and asymptotic. To conduct simultaneous inference on a function of any estimator, we introduce asymmetric and symmetric Bayesian confidence bands. Inference on point estimates is conducted via posterior intervals. The Bayesian asymptotic theory we develop extends the foregoing to gains in computational time and tractability of posterior distributions. Monte Carlo simulations conducted illustrate good performance of our estimators. We apply our estimators to evaluate the impact of institutional ownership on firm innovation. 
+  
+* [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
+
+<!-- Commented out: -->
+
+<!--
+* <a href="Huang&Tsyawo2018_4.pdf#" class="download" title=" ">Bayesian Distribution Regression</a> [[Submitted]](with Weige Huang)
+-->
+
+<br>
+
+### **Work in progress**
+
+* Transition Functions with an Application on Intergenerational Mobility (with Brantly Callaway and Weige Huang)
+
+<!--* Estimating the SAR spatial matrix by Clustered Covariate Regression -->
+
+* Semiparametric Distribution Regression
