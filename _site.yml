@@ -27,3 +27,11 @@ output:
   html_document:
     theme: flatly       #cosmo   paper  simplex spacelab
     highlight: kate                         #  pygments
+    
+---
+<style>                     
+.navbar {
+  background-color:#navbarColor01
+}
+</style>   
+    
