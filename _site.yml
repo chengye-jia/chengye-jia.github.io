@@ -25,6 +25,6 @@ navbar:
       href: https://github.com/chengye-jia      # CHANGE HERE 
 output:
   html_document:
-    theme: flatly       #cosmo   paper  simplex spacelab
-    highlight: kate      # pygments
-
+    #theme: flatly       #cosmo   paper  simplex spacelab
+    #highlight: kate      # pygments
+    css:bootstrap.css
