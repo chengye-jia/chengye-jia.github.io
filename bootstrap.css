@@ -1336,10 +1336,7 @@ a.text-primary:hover,
 a.text-primary:focus {
   color: #1967be;
 }
-a.text-success:hover,
-a.text-success:focus {
-  color: #e6e6e6;
-}
+
 .text-info {
   color: #ffffff;
 }
@@ -1368,13 +1365,6 @@ a.text-danger:focus {
 a.bg-primary:hover,
 a.bg-primary:focus {
   background-color: #1967be;
-}
-.bg-success {
-  background-color: #3fb618;
-}
-a.bg-success:hover,
-a.bg-success:focus {
-  background-color: #2f8912;
 }
 .bg-info {
   background-color: #9954bb;
