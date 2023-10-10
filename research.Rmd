@@ -11,7 +11,7 @@ title: "Research"
 
 <br>
 
-* [Inference on Counterfactual Transition Matrices](https://estsyawo.github.io/CHENGYEJIA_JMP.pdf#) (with Brantly Callaway, Job Market Paper)
+* [Inference on Counterfactual Transition Matrices] (with Brantly Callaway, Job Market Paper)
 
   <br>
   
