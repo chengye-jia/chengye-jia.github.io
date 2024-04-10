@@ -11,7 +11,7 @@ title: "Research"
 
 <br>
 
-* [Inference on Counterfactual Transition Matrices] (with Brantly Callaway and Karen Yan)
+* [Inference on Counterfactual Transition Matrices] (with Brantly Callaway, Karen Yan)
 
   <br>
   
