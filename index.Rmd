@@ -17,8 +17,7 @@ My name is Chengye Jia. I am a Ph.D. candidate in economics at Temple University
 shall be attending the AEA/ASSA 2020 Annual Meetings in San Diego, CA, January 3-5.-->
 
 <br>
-
-<a href="CHENGYEJIA_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
+<!--a href="CHENGYEJIA_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
 
 <br>
 
