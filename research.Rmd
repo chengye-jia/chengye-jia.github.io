@@ -27,7 +27,7 @@ title: "Research"
 -->
   <br>
   
-* [Decomposing Wage Gaps between Han and Non-Han MInorities Minorities](status: working paper)
+* [Decomposing Wage Gaps between Han and Non-Han Minorities](status: working paper)
 
 <!--
   <br>
